@@ -1,0 +1,53 @@
+This is the README for the UCL SSEES RePEc archive.
+
+/RePEc/see
+is the archive directory.
+
+/RePEc/.htaccess 
+ensures that see is browsable.
+
+/RePEc/index.html
+is a blank index file which makes the RePEc directory
+appear to be empty.
+
+/RePEc/epo/wpaper
+is the UCL SSEES Economics and Business working paper series directory.
+
+
+HOW ALL OF THIS WORKS
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2006-06
+Title: Employment Regulation and French Unemployment: Were the French Students
+ Right After All?
+Author-Name: John Schmitt
+Author-Person: psc226
+Author-Name: David Howell
+Author-Person:
+Creation-Date: 2006-04
+Language: en
+Abstract: The widely held view that French economic performance is poor and
+ that French employment performance is catastrophic, flies in the face of
+ the evidence, according to this report.
+Classification-JEL:
+File-URL: http://www.cepr.net/documents/04_06_Howell_French_Students_2.pdf
+File-Format: application/pdf
+Publication-Status:
+Article-Handle:
+
+
+* Encoding *
+
+* Lags *
+It takes anywhere from one day to a full week for the IDEAS, REPEC, ECONPAPERS, and other databases to retrieve and populate new information. If things don't seem to be working as intended, check the logs, where you can usually find offending entries or other errors, as well as some information about when the last update occurred: http://econpapers.repec.org/check/see/.
+
+For the sake of convenience, here is a list of UCL SSEES authors
+and their person-names:
+
+Author-Name: Elodie Douarin
+Author-Person: pdo329
+
+More to be added.
+
+The code and archive setup is heavily based on CEPR's setup at: https://github.com/webmaster-cepr/RePEc
+
