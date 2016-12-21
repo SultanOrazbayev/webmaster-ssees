@@ -244,3 +244,19 @@ File-URL: http://discovery.ucl.ac.uk/17479/1/17479.pdf
 File-Format: Application/pdf
 Number: 73
 Handle: RePEc:see:wpaper:73
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Tullio Buccellato
+Author-X-Name-First: Tullio
+Author-X-Name-Last: Buccellato
+Author-Email: t.buccellato@soas.ac.uk
+Author-Workplace-Name: PhD student in International Economics at the University of Rome Tor Vergata
+Title: Convergence across Russian regions: a spatial econometrics approach
+Abstract: This paper analyses the process of convergence across the regions of Russia using spatial econometrics tools in addition to the traditional β-convergence techniques as derived from the neoclassical theoretical setting. The spatial component appears to be non-negligible and, consequently, conventional convergence estimates suffer a bias due to spatial dependence across observations. Furthermore, variables such as hydrocarbon supply, openness to trade and FDI per capita are found to have an unambiguous, positive and statistically significant impact on growth (Results are also confirmed by the panel counterpart of the model. Estimates for this last are presented in the Appendix E).
+Length: 27 pages
+Creation-Date: 2007-02
+File-URL: http://discovery.ucl.ac.uk/17480/1/17480.pdf
+File-Format: Application/pdf
+Number: 72
+Keywords: Convergence, Spatial Econometrics, Russian Federation
+Handle: RePEc:see:wpaper:72
