@@ -86,83 +86,90 @@ Author-Name:
 Author-X-Name-First: 
 Author-X-Name-Last: 
 Author-Person: 
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Chiara Amini
 Author-X-Name-First: Chiara
 Author-X-Name-Last: Amini
 Author-Person: 
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
-Author-Name: Randolph Bruno
+Author-Name: Randolph Luca Bruno
 Author-X-Name-First: Randolph
 Author-X-Name-Last: Bruno
 Author-Person: pbr134
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Tomáš Cvrcek
 Author-X-Name-First: Tomáš
 Author-X-Name-Last: Cvrcek
-Author-Person: 
+Author-Person: pcv3
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Silvia Dal Bianco
 Author-X-Name-First: Silvia
 Author-X-Name-Last: Dal Bianco
 Author-Person: 
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Elodie Douarin
 Author-X-Name-First: Elodie
 Author-X-Name-Last: Douarin
 Author-Person: pdo329
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Filipa Figueira
 Author-X-Name-First: Filipa
 Author-X-Name-Last: Figueira
 Author-Person: 
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Christopher Gerry
 Author-X-Name-First: Christopher
 Author-X-Name-Last: Gerry
-Author-Person: 
+Author-Person: pge49
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Yuemei Ji
 Author-X-Name-First: Yuemei
 Author-X-Name-Last: Ji
-Author-Person: 
+Author-Person: pji81
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Julia Korosteleva
 Author-X-Name-First: Julia
 Author-X-Name-Last: Korosteleva
 Author-Person: 
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Robert Levy
 Author-X-Name-First: Robert
 Author-X-Name-Last: Levy
 Author-Person: 
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Svetlana Makarova
 Author-X-Name-First: Svetlana
 Author-X-Name-Last: Makarova
-Author-Person: 
+Author-Person: pma599
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Miriam Manchin
 Author-X-Name-First: Miriam
 Author-X-Name-Last: Manchin
-Author-Person: 
+Author-Person: pma871
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Eugene Nivorozhkin
 Author-X-Name-First: Eugene
 Author-X-Name-Last: Nivorozhkin
 Author-Person: 
-
-Author-Name: 
-Author-X-Name-First: 
-Author-X-Name-Last: 
-Author-Person: 
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 Author-Name: Slavo Radosevic
 Author-X-Name-First: Slavo
 Author-X-Name-Last: Radosevic
 Author-Person: pra152
-
-More to be added.
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 
 The code and archive setup is heavily based on CEPR's setup at: https://github.com/webmaster-cepr/RePEc
-
