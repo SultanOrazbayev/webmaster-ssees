@@ -87,3 +87,26 @@ File-URL: http://discovery.ucl.ac.uk/17540/1/17540.pdf
 File-Format: Application/pdf
 Number: 36
 Handle: RePEc:see:wpaper:36
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Natalia Isachenkova
+Author-X-Name-First: Natalia
+Author-X-Name-Last: Isachenkova
+Author-Workplace-Name: Kingston Business School, Kingston University, Kingston Hill, Kingston upon Thames, Surrey, KT2 7LB
+Author-Email: n.isachenkova@kingston.ac.uk
+Author-Name: Tomasz Marek Mickiewicz
+Author-X-Name-First: Tomasz
+Author-X-Name-Last: Mickiewicz
+Author-Person: pmi187
+Author-Email: t.mickiewicz@ssees.ucl.ac.uk
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
+Title: Ownership Characteristics and Access to Finance: Evidence from a Survey of Large Privatised Companies in Hungary and Poland
+Abstract: We examine financial constraints and forms of finance used for investment, by analysing survey data on 157 large privatised companies in Hungary and Poland for the period 1998 - 2000. The Bayesian analysis using Gibbs sampling is carried out to obtain inferences about the sample companies' access to finance from a model for categorical outcome. By applying alternative measures of financial constraints we find that foreign companies, companies that are part of domestic industrial groups and enterprises with concentrated ownership are all less constrained in their access to finance. Moreover, we identify alternative modes of finance since different corporate control and past performance characteristics influence the sample firms' choice of finance source. In particular, while being industry-specific, the access to domestic credit is positively associated with company size and past profitability. Industrial group members tend to favour bond issues as well as sells-offs of assets as appropriate types of finance for their investment programmes. Preferences for raising finance in the form of equity are associated with share concentration in a non-monotonic way, being most prevalent in those companies where the dominant owner holds 25%-49% of shares. Close links with a leading bank not only increase the possibility of bond issues but also appear to facilitate access to non-banking sources of funds, in particular, to finance supplied by industrial partners. Finally, reliance on state finance is less likely for the companies whose profiles resemble the case of unconstrained finance, namely, for companies with foreign partners, companies that are part of domestic industrial groups and companies with a strategic investor. Model implications also include that the use of state funds is less likely for Polish than for Hungarian companies.
+Length: 29 pages
+Creation-Date: 2003-12
+File-URL: http://discovery.ucl.ac.uk/17541/1/17541.pdf
+File-Format: Application/pdf
+Number: 35
+Keywords: financial constraints, investment, enterprises, foreign ownership, industrial groups, concentrated ownership, leading bank, proportional-odds model, Bayesian updating.
+Classification-JEL: G32, P31, P34, F23, L33
+Handle: RePEc:see:wpaper:35
