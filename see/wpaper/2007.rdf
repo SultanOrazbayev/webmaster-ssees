@@ -28,6 +28,72 @@ Number: 83
 Handle: RePEc:see:wpaper:83
 
 Template-Type: ReDIF-Paper 1.0
+Author-Name: Slavo Radosevic
+Author-X-Name-First: Slavo
+Author-X-Name-Last: Radosevic
+Author-Person: pra152
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
+Title: Policies for promoting technological catch up: a post-Washington approach
+Abstract: This paper analyses the evolution of policies for technology catch-up through three periods: import-substitution, (augmented) Washington consensus and post-Washington period. We analyse the dominant policy models and practices in each of these periods as co-evolving with the dominant academic ideas, and changing the conditions for catching-up. We develop several dimensions or building blocks that characterise the policies for technology catch-up. These dimensions are used to characterise each of the three policy periods with the objective of outlining the generic features of an emerging post-Washington approach to technology catch-up policies in relation to past approaches.
+Publication-Status: Published in International Journal of Institutions and Economies, 1 (1) pp. 23-52. (2009)
+Length: 29 pages
+Creation-Date: 2007-10
+File-URL: http://discovery.ucl.ac.uk/17466/1/17466.pdf
+File-Format: Application/pdf
+Number: 82
+Handle: RePEc:see:wpaper:82
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Ruta Aidis
+Author-X-Name-First: Ruta
+Author-X-Name-Last: Aidis
+Author-Email: r.aidis@ssees.ucl.ac.uk
+Author-Person: pai34
+Author-Workplace-Name: SSEES, University College London FEE, University of Amsterdam
+Author-Name: Saul Estrin 
+Author-X-Name-First: Saul
+Author-X-Name-Last: Estrin
+Author-Email: s.estrin@lse.ac.uk
+Author-Workplace-Name: London School of Economics
+Author-Name: Tomasz Marek Mickiewicz
+Author-X-Name-First: Tomasz
+Author-X-Name-Last: Mickiewicz
+Author-Person: pmi187
+Author-Email: t.mickiewicz@ssees.ucl.ac.uk
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
+Title: Entrepreneurship in Emerging Markets: Which Institutions Matter?
+Abstract: In this paper we combine a wide range of country-level institutional indicators with survey data taken from the Global Enterprise Monitor on potential and actual entrepreneurial entry, to investigate the role of the institutions as determinants of the entrepreneurial entry, controlling for individual characteristics. We find that the two most robust institutional features that affect entry are: the size of the financial sector and the protection of property rights. In contrast, we find direct regulatory entry barriers to be insignificant. Interpreting these effects jointly, we argue that the entrepreneurs are forward-looking: in the sense that the business conditions under which they expect their firms to operate matter more than the initial bureaucratic obstacles they have to overcome at time of entry.
+Length: 53 pages
+Creation-Date: 2007-09
+Number: 81
+Keywords: entrepreneurship, property rights, access to finance
+Handle: RePEc:see:wpaper:81
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Tullio Buccellato
+Author-X-Name-First: Tullio 
+Author-X-Name-Last:  Buccellato
+Author-Email:  t.buccellato@soas.ac.uk
+Author-Workplace-Name: Univerisity of Rome Tor Vergata and School of Oriental and Africal Studies, University of London
+Author-Name: Tomasz Marek Mickiewicz
+Author-X-Name-First: Tomasz
+Author-X-Name-Last: Mickiewicz
+Author-Person: pmi187
+Author-Email:  t.mickiewicz@ssees.ucl.ac.uk
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
+Title: Oil and gas: a blessing for few hydrocarbons and within-region inequality in Russia
+Abstract: Building on earlier work on regional inequality in Russia (Fedorov 2002; Gaddy and Ickes 2005; Bradshaw 2006 and others) we investigate a novel line of research, i.e. to demonstrate that the regional oil and gas abundance is associated with high within-region inequality. We show empirically that hydrocarbons represent one of the leading determinants of an increased gap between rich and poor in the producing regions. We discuss a possible cluster of geographic, economic and political factors underlying the phenomenon.
+Length: 33 pages
+Creation-Date: 2007-09
+Revision-Date: 2008-02
+File-URL: http://discovery.ucl.ac.uk/17469/1/17469.pdf
+File-Format: Application/pdf
+Number: 80
+Keywords: Inequality, Oil, Regions, Russia
+Classification-JEL: D31, P25, R11, O18
+Handle: RePEc:see:wpaper:80
+
+Template-Type: ReDIF-Paper 1.0
 Author-Name: Ruta Aidis
 Author-X-Name-First: Ruta
 Author-X-Name-Last: Aidis
@@ -44,6 +110,7 @@ Author-X-Name-First: Tomasz
 Author-X-Name-Last: Mickiewicz
 Author-Person: pmi187
 Author-Email: t.mickiewicz@ssees.ucl.ac.uk
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
 Title: Institutions and Entrepreneurship Development in Russia: A Comparative Perspective
 Abstract: In this paper we use a comparative perspective to explore the ways in which institutions and networks have influenced entrepreneurial development in Russia. We utilize Global Entrepreneurship Monitor (GEM) data to study the effects of the weak institutional environment in Russia on entrepreneurship, comparing it first with all available GEM country samples and second, in more detail, with Brazil and Poland. Our results suggest that Russia's institutional environment is important in explaining its relatively low levels of entrepreneurship development, where the latter is measured in terms of both number of start-ups and of existing business owners. In addition, Russia's business environment and its consequences for the role of business networks contribute to the relative advantage of entrepreneurial insiders (those already in business) to entrepreneurial outsiders (newcomers) in terms of new business start-ups.
 Length: 30 pages
@@ -70,95 +137,3 @@ File-Format: Application/pdf
 Keywords: Corporate governance; control; banks; Russia; institutions; ownership; management; blockholder; state
 Number: 78
 Handle: RePEc:see:wpaper:78
-
-
-
-Template-Type: ReDIF-Paper 1.0
-Author-Name:  Tullio Buccellato1
-Author-X-Name-First: Tullio 
-Author-X-Name-Last:  Buccellato1
-Author-Email:  t.buccellato@soas.ac.uk
-Author-Workplace-Name: Univerisity of Rome Tor Vergata and School of Oriental and Africal Studies, 
-University of London.
-Author-Name:  Tomasz Mickiewicz
-Author-X-Name-First: Tomasz 
-Author-X-Name-Last: Mickiewicz
-Author-Email:  t.mickiewicz@ssees.ucl.ac.uk
-Author-Workplace-Name: School of Slavonic and East European Studies, University College London.
-Title: Oil and within region Inequality in Russia
-Abstract:  Building on earlier work on regional inequality in Russia (Fedorov 2002; Gaddy and
-Ickes 2005; Bradshaw 2006 and others) we investigate a novel line of research, i.e. demonstrate that
-the regional oil and gas abundance is associated with high within-region inequality. We argue that
-this phenomenon is amplified by the following two clusters of factors: on the one hand, by the
-monopsonistic position of the extracting companies on the local labour markets coupled with
-geographical relocation of rents via transfer pricing from the extracting regions to the companies
-headquarters and central government bureaucracy, and, on the other hand, by reduction in financial
-support for local communities offered by the extracting companies and by inadequate and illtargeted
-transfers by the government.
-Length: 33 pages
-Creation-Date: 2007-09
-File-URL: http://www.ssees.ucl.ac.uk/publications/working_papers/wp80.pdf
-File-Format: Application/pdf
-Number: 80
-Key Words: Inequality, Oil, Regions, Russia
-JEL classification codes: D31, P25, R11, O18
-Handle: RePEc:see:wpaper:80
-
-
-Template-Type: ReDIF-Paper 1.0
-Author-Name:  Ruta Aidis,
-Author-X-Name-First: Ruta
-Author-X-Name-Last: Aidis
-Author-Email:  r.aidis@ssees.ucl.ac.uk
-Author-Workplace-Name: SSEES, University College London FEE, University of Amsterdam
-Author-Name: Saul Estrin 
-Author-X-Name-First: Saul
-Author-X-Name-Last: Estrin
-Author-Email: s.estrin@lse.ac.uk
-Author-Workplace-Name: London School of Economics
-Author-Name:  Tomasz Mickiewicz
-Author-X-Name-First: Tomasz
-Author-X-Name-Last: Mickiewicz
-Author-Email: t.mickiewicz@ssees.ucl.ac.uk 
-Title: Entrepreneurship in Emerging Markets:  Which Institutions Matter?
-Abstract: In this paper we combine a wide range of country-level institutional indicators with survey
-data taken from the Global Enterprise Monitor on potential and actual entrepreneurial entry,
-to investigate the role of the institutions as determinants of the entrepreneurial entry,
-controlling for individual characteristics. We find that the two most robust institutional
-features that affect entry are: the size of the financial sector and the protection of property
-rights. In contrast, we find direct regulatory entry barriers to be insignificant. Interpreting
-these effects jointly, we argue that the entrepreneurs are forward-looking: in the sense that
-the business conditions under which they expect their firms to operate matter more than the
-initial bureaucratic obstacles they have to overcome at time of entry. 
-Length: 53 pages
-Creation-Date: 2007-09
-File-URL: http://www.ssees.ucl.ac.uk/publications/working_papers/wp81.pdf
-File-Format: Application/pdf
-Number: 81
-Key Words: entrepreneurship, property rights, access to finance
-Handle: RePEc:see:wpaper:81
-
-
-Template-Type: ReDIF-Paper 1.0
-Author-Name:  Slavo Radosevic
-Author-X-Name-First: Slavo Radosevic 
-Author-X-Name-Last: Slavo Radosevic 
-Author-Email:  s.radosevic@ssees.ucl.ac.uk
-Author-Workplace-Name: School of Slavonic and East European Studies, Univeristy College London
-Title: POLICIES FOR PROMOTING TECHNOLOGICAL CATCHING UP: TOWARDS POST-
-WASHINGTON APPROACH
-Abstract:  This paper analyses the evolution of policies for technology catch-up through three periods:
-import-substitution, (augmented) Washington consensus and post-Washington period. We
-analyse the dominant policy models and practices in each of these periods as co-evolving with
-the dominant academic ideas, and changing the conditions for catching-up. We develop
-several dimensions or building blocks that characterise the policies for technology catch-up.
-These dimensions are used to characterise each of the three policy periods with the objective
-of outlining the generic features of an emerging post-Washington approach to technology
-catch-up policies in relation to past approaches.
-Length: 29
-Creation-Date: 2007-10
-File-URL: http://www.ssees.ucl.ac.uk/publications/working_papers/wp82.pdf
-File-Format: Application/pdf
-Number: 82 pages
-Handle: RePEc:see:wpaper:82
-
