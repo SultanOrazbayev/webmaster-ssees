@@ -180,3 +180,19 @@ File-URL: http://discovery.ucl.ac.uk/17505/1/17505.pdf
 File-Format: Application/pdf
 Number: 61
 Handle: RePEc:see:wpaper:61
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Anton Nivorozhkin
+Author-X-Name-First: Anton 
+Author-X-Name-Last: Nivorozhkin
+Author-Workplace-Name: Institute for Employment Research (IAB)
+Title: New estimates of the risk and duration of registered unemployment in urban Russia
+Abstract: This paper examines whether deregistration from the employment office decreases unemployment duration. The study is based on Russian individual-level data from the Public Employment Office of Rostov-on-Don combined with information from the 2000 household survey. Using a proportional hazard model, I find a significant excess in job finding rates following employment office deregistration. The predicted risk of getting a job is non-monotonic and tends to decrease at longer duration intervals. An important finding is that only 29% of the unemployed obtained a job simultaneously with deregistering from the Public Employment Office. Others continued to search for job on their own.
+Length: 29 pages
+Creation-Date: 2005-11
+File-URL: http://discovery.ucl.ac.uk/17507/1/17507.pdf
+File-Format: Application/pdf
+Number: 60
+Classification-JEL: P23, J64, J68, C41.
+Keywords: Unemployment, duration, transition economics.
+Handle: RePEc:see:wpaper:60
