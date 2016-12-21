@@ -83,7 +83,14 @@ For the sake of convenience, here is a list of UCL SSEES authors
 and their person-names:
 
 Author-Name: Elodie Douarin
+Author-X-Name-First: Elodie
+Author-X-Name-Last: Douarin
 Author-Person: pdo329
+
+Author-Name: Slavo Radosevic
+Author-X-Name-First: Slavo
+Author-X-Name-Last: Radosevic
+Author-Person: pra152
 
 More to be added.
 
