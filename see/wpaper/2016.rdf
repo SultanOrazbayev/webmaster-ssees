@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Author-Name: Raphael Espinoza
+Author-X-Name-First: Raphael
+Author-X-Name-Last: Espinoza
+Author-Person: pes36
+Author-Workplace-Name: UCL School of Slavonic and East European Studies
+Author-Name: Miguel Segoviano
+Author-X-Name-First: Miguel
+Author-X-Name-Last: Segoviano
+Author-Workplace-Name: IMF
+Title: Determinants of Bank-Sovereign Distress
+Abstract: This paper computes, for 15 advanced countries, the probability of bank-to-sovereign contagion, i.e. the probability of default of a sovereign, conditional on default in one of the domestic banks, and assesses the relevance of underlying structural characteristics in explaining the possibility of contagion. The probability of contagion is computed using the CIMDO methodology developed by Segoviano (2006). A panel model on quarterly data between 2005-q1 and 2012-q4 shows that the macroeconomic and financial outlooks, banking sector characteristics, initial fiscal positions, and the share of public debt held by domestic banks are all significant determinants of the probability of bank-to-sovereign contagion. GDP growth projections and capital buffers in banks were more important determinants before the start of the euro-area debt crisis. Since then, the fiscal situation has become more relevant. The share of government bonds held by domestic banks was especially important for the GIIPS countries. On the contrary, the fiscal situation was less pertinent for countries outside the eurozone, in line with the theoretical prior that countries with their own currencies can better handle banking and fiscal crises.
+File-URL: https://www.ucl.ac.uk/ssees/comparative-studies-emerging-economies/working-papers/edit/WP2016-03_CCSEE_Bank-Sovereign_Contagion.pdf
+File-Format: application/pdf
+Creation-Date: 2016-2
+Number: 2016-3
+Handle: RePEc:see:wpaper:2016:3
+Classification-JEL: E43, E44, G01, G10
+Keywords: Sovereign spreads; contagion; market price of risk; fiscal policy
+
+Template-Type: ReDIF-Paper 1.0
 Author-Name: Slavo Radosevic
 Author-X-Name-First: Slavo
 Author-X-Name-Last: Radosevic
