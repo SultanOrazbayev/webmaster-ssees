@@ -1,54 +1,109 @@
-Alesina, Alberto and Eliana La Ferrara (2005). “Ethnic Diversity and Economic Performance”. In: Journal of Economic Literature, pp. 762–800.
-Baruffaldi, Stefano H. and Paolo Landoni (2012). “Return mobility and scientific productivity of researchers working abroad: The role of home country linkages”. In: Research Policy 41.9, pp. 1655–1665.
-Brogaard, Jonathan, Joseph Engelberg, and Christopher A. Parsons (2014). “Net- works and productivity: Causal evidence from editor rotations”. In: Journal of Financial Economics 111.1, pp. 251–270.
-Burt, Ronald S. (2004). “Structural holes and good ideas”. In: American journal of sociology 110.2, pp. 349–399.
-Burt, Ronald S. (2015). “Reinforced structural holes”. In: Social Networks 43, pp. 149–161.
-Card, David and Stefano DellaVigna (2013). “Nine Facts about Top Journals in Economics”. In: Journal of Economic Literature 51.1, pp. 144–61.
-Coupé, Tom (2013). “Peer review versus citations – An analysis of best paper prizes”. In: Research Policy 42.1, pp. 295–301.
-Coupé, Tom, Victor Ginsburgh, and Abdul Noury (2010). “Are leading papers of better quality? Evidence from a natural experiment”. In: Oxford Economic Papers 62.1, pp. 1–11.
-Desmet, Klaus, Ignacio Ortuño-Ortn, and Romain Wacziarg (2015). Culture, Eth- nicity and Diversity. Tech. rep. National Bureau of Economic Research.
-Feenberg, Daniel R, Ina Ganguli, Patrick Gaule, and Jonathan Gruber (2017). “It’s Good to be First: Order Bias in Reading and Citing NBER Working Papers”. In: Review of Economics and Statistics 99.1, pp. 32–39.
+References
+
+Alesina, Alberto and Eliana La Ferrara (2005). “Ethnic Diversity and Economic Performance”. Journal of Economic Literature, pp. 762–800.
+
+Baruffaldi, Stefano H. and Paolo Landoni (2012). “Return mobility and scientific productivity of researchers working abroad: The role of home country linkages”. Research Policy 41.9, pp. 1655–1665.
+
+Brogaard, Jonathan, Joseph Engelberg, and Christopher A. Parsons (2014). “Networks and productivity: Causal evidence from editor rotations”.  Journal of Financial Economics 111.1, pp. 251–270.
+
+Burt, Ronald S. (2004). “Structural holes and good ideas”.  American journal of sociology 110.2, pp. 349–399.
+
+Burt, Ronald S. (2015). “Reinforced structural holes”.  Social Networks 43, pp. 149–161.
+
+Card, David and Stefano DellaVigna (2013). “Nine Facts about Top Journals in Economics”.  Journal of Economic Literature 51.1, pp. 144–61.
+
+Coupé, Tom (2013). “Peer review versus citations – An analysis of best paper prizes”.  Research Policy 42.1, pp. 295–301.
+
+Coupé, Tom, Victor Ginsburgh, and Abdul Noury (2010). “Are leading papers of better quality? Evidence from a natural experiment”.  Oxford Economic Papers 62.1, pp. 1–11.
+
+Desmet, Klaus, Ignacio Ortuño-Ortn, and Romain Wacziarg (2015). Culture, Ethnicity and Diversity. Tech. rep. National Bureau of Economic Research.
+
+Feenberg, Daniel R, Ina Ganguli, Patrick Gaule, and Jonathan Gruber (2017). “It’s Good to be First: Order Bias in Reading and Citing NBER Working Papers”.  Review of Economics and Statistics 99.1, pp. 32–39.
+
 Fourcade, Marion (2009). Economists and Societies: Discipline and Profession in the United States, Britain, and France, 1890s to 1990s. Princeton University Press.
-Franceschet, Massimo and Antonio Costantini (2010). “The effect of scholar collab- oration on impact and quality of academic papers”. In: Journal of informetrics 4.4, pp. 540–553.
-Franzoni, Chiara, Giuseppe Scellato, and Paula Stephan (2014). “The mover’s ad- vantage: The superior performance of migrant scientists”. In: Economics Letters 122.1, pp. 89–93.
-Freeman, Richard B. and Wei Huang (2015). “Collaborating with People Like Me: Ethnic Coauthorship within the United States”. English. In: Journal of Labor Economics 33.S1, pp. 289–318.
+
+Franceschet, Massimo and Antonio Costantini (2010). “The effect of scholar collaboration on impact and quality of academic papers”.  Journal of informetrics 4.4, pp. 540–553.
+
+Franzoni, Chiara, Giuseppe Scellato, and Paula Stephan (2014). “The mover’s advantage: The superior performance of migrant scientists”.  Economics Letters 122.1, pp. 89–93.
+
+Freeman, Richard B. and Wei Huang (2015). “Collaborating with People Like Me: Ethnic Coauthorship within the United States”. English.  Journal of Labor Economics 33.S1, pp. 289–318.
+
 Furman, Jeff and Patrick Gaule (2013). “A review of economic perspectives on collaboration in science”. Paper prepared for the Workshop on Institutional & Organizational Supports for Team Science.
-Gazni, Ali, Cassidy R Sugimoto, and Fereshteh Didegah (2012). “Mapping world scientific collaboration: Authors, institutions, and countries”. In: Journal of the American Society for Information Science and Technology 63.2, pp. 323–335.
-Gibson, John and David McKenzie (2014). “Scientific mobility and knowledge net- works in high emigration countries: Evidence from the Pacific”. In: Research Policy 43.9, pp. 1486–1495.
-Goyal, Sanjeev, Marco J. van der Leij, and José Luis Moraga-González (2006). “Economics: An emerging small world”. In: Journal of Political Economy 114.2, pp. 403–412.
-Granovetter, Mark S (1973). “The strength of weak ties”. In: American journal of sociology, pp. 1360–1380.
-Hamermesh, Daniel S. (2013). “Six Decades of Top Economics Publishing: Who and How?” In: Journal of Economic Literature 51.1, pp. 162–72.
+
+Gazni, Ali, Cassidy R Sugimoto, and Fereshteh Didegah (2012). “Mapping world scientific collaboration: Authors, institutions, and countries”.  Journal of the American Society for Information Science and Technology 63.2, pp. 323–335.
+
+Gibson, John and David McKenzie (2014). “Scientific mobility and knowledge networks in high emigration countries: Evidence from the Pacific”.  Research Policy 43.9, pp. 1486–1495.
+
+Goyal, Sanjeev, Marco J. van der Leij, and José Luis Moraga-González (2006). “Economics: An emerging small world”.  Journal of Political Economy 114.2, pp. 403–412.
+
+Granovetter, Mark S (1973). “The strength of weak ties”.  American journal of sociology, pp. 1360–1380.
+
+Hamermesh, Daniel S. (2013). “Six Decades of Top Economics Publishing: Who and How?”  Journal of Economic Literature 51.1, pp. 162–72.
+
 Hamermesh, Daniel S. (2015). Age, Cohort and Co-Authorship. Tech. rep. National Bureau of Economic Research.
-Hamermesh, Daniel S. (2017). “Citations in Economics: Measurement, Uses and Impacts”. In: Journal of Economic Literature.
+
+Hamermesh, Daniel S. (2017). “Citations in Economics: Measurement, Uses and Impacts”.  Journal of Economic Literature.
+
 Head, Keith, Yao Amber Li, and Asier Minondo (2015). Geography, Ties, and Knowledge Flows: Evidence from Citations in Mathematics. Tech. rep. HKUST Institute for Emerging Market Studies.
-Helgadóttir, Oddný (2015). “The Bocconi boys go to Brussels: Italian economic ideas, professional networks and European austerity”. In: Journal of European Public Policy, pp. 1–18.
-Hunter, Rosalind S, Andrew J Oswald, and Bruce G Charlton (2009). “The Elite Brain Drain”. In: The Economic Journal 119.538, F231–F251.
-Ingersoll, Keith, Edmund J Malesky, and Sebastian M Saiegh (2014). “Diversity and Group Performance: Evidence from the World’s Top Soccer League”. In: APSA 2014 Annual Meeting Paper.
-Jin, Ginger Zhe, Benjamin Jones, Susan Feng Lu, and Brian Uzzi (2013). The reverse Matthew effect: catastrophe and consequence in scientific teams. Tech. rep. National Bureau of Economic Research.
-Jones, Benjamin F (2009). “The burden of knowledge and the “death of the renais- sance man”: Is innovation getting harder?” In: The Review of Economic Studies 76.1, pp. 283–317.
-Jonkers, Koen and Laura Cruz-Castro (2013). “Research upon return: The effect of international mobility on scientific ties, production and impact”. In: Research Policy 42.8, pp. 1366–1377.
-Kerr, William R. (2008). “Ethnic Scientific Communities and International Tech- nology Diffusion”. In: Review of Economics and Statistics 90.3, pp. 518–537.
+
+Helgadóttir, Oddný (2015). “The Bocconi boys go to Brussels: Italian economic ideas, professional networks and European austerity”.  Journal of European Public Policy, pp. 1–18.
+
+Hunter, Rosalind S, Andrew J Oswald, and Bruce G Charlton (2009). “The Elite Brain Drain”.  The Economic Journal 119.538, F231–F251.
+
+Ingersoll, Keith, Edmund J Malesky, and Sebastian M Saiegh (2014). “Diversity and Group Performance: Evidence from the World’s Top Soccer League”.  APSA 2014 Annual Meeting Paper.
+
+Jin, Ginger Zhe, Benjamin Jones, Susan Feng Lu, and Brian Uzzi (2013). The reverse Matthew effect: catastrophe and consequence in scientific teams. National Bureau of Economic Research.
+
+Jones, Benjamin F (2009). “The burden of knowledge and the “death of the renaissance man”: Is innovation getting harder?”  The Review of Economic Studies 76.1, pp. 283–317.
+
+Jonkers, Koen and Laura Cruz-Castro (2013). “Research upon return: The effect of international mobility on scientific ties, production and impact”.  Research Policy 42.8, pp. 1366–1377.
+
+Kerr, William R. (2008). “Ethnic Scientific Communities and International Technology Diffusion”.  Review of Economics and Statistics 90.3, pp. 518–537.
+
 Kosnik, Lea-Rachel D (2015). “JEL Codes: What Are They Really Telling Us?” Mimeo.
-Krichel, Thomas and Christian Zimmermann (2009). “The Economics of Open Bibliographic Data Provision”. In: Economic Analysis and Policy 39.1, pp. 143– 152.
+
+Krichel, Thomas and Christian Zimmermann (2009). “The Economics of Open Bibliographic Data Provision”.  Economic Analysis and Policy 39.1, pp. 143– 152.
+
 Mateos, Pablo, Richard Webber, and Paul Longley (2007). “The cultural, ethnic and linguistic classification of populations and neighbourhoods using personal names”. Paper 116.
-Mayer, Thierry and Soledad Zignago (2011). Notes on CEPII’s distances measures: The GeoDist database. Tech. rep. Working paper 2011-25.
-Miura, Hirotaka (2012). “Stata graph library for network analysis”. In: Stata Jour- nal 12.1, pp. 94–129.
+
+Mayer, Thierry and Soledad Zignago (2011). Notes on CEPII’s distances measures: The GeoDist database. Working paper 2011-25.
+
+Miura, Hirotaka (2012). “Stata graph library for network analysis”.  Stata Journal 12.1, pp. 94–129.
+
 Mohnen, Myra (2016). “Stars and brokers: peer effects among medical scientists”. Job market paper.
-Mongeon, Philippe and Vincent Larivière (2015). “Costly collaborations: The im- pact of scientific fraud on co-authors’ careers”. In: Journal of the Association for Information Science and Technology.
-Montecinos, Verónica and John Markoff (2010). Economists in the Americas. Ed- ward Elgar Publishing.
-Nathan, Max (2015). “Same difference? Minority ethnic inventors, diversity and innovation in the UK”. In: Journal of Economic Geography 15.1, pp. 129–168.
-Nisbett, Richard E (2003). The geography of thought. New York: Free Press. Orazbayev, Sultan (2016). “Exploring the world of Economics through RePEc
-data”. mimeo.
-Oster, Sharon M. and Daniel S. Hamermesh (1998). “Aging and productivity
-among economists”. In: Review of Economics and Statistics 80.1, pp. 154–156.
-Rigby, John and Jakob Edler (2005). “Peering inside research networks: Some observations on the effect of the intensity of collaboration on the variability of research quality”. In: Research Policy 34.6, pp. 784–794.
-Saxenian, AnnaLee (2005). “From brain drain to brain circulation: Transnational communities and regional upgrading in India and China”. In: Studies in com- parative international development 40.2, pp. 35–61.
-Seglen, Per O (1997). “Why the impact factor of journals should not be used for evaluating research.” In: BMJ: British Medical Journal 314.7079, p. 498.
-Singh, Jasjit (2005). “Collaborative networks as determinants of knowledge diffu- sion patterns”. In: Management science 51.5, pp. 756–770.
-Spolaore, Enrico and Romain Wacziarg (2015). Ancestry, Language and Culture. Tech. rep. National Bureau of Economic Research.
-Tange, Ole (2011). “GNU Parallel-the command-line power tool”. In: The USENIX Magazine 36.1, pp. 42–47.
-Thelwall, Mike and Nabeil Maflahi (2015). “Are scholarly articles disproportion- ately read in their own country? An analysis of Mendeley readers”. In: Journal of the Association for Information Science and Technology 66.6, pp. 1124–1135.
-Uzzi, Brian and Jarrett Spiro (2005). “Collaboration and creativity: the small world problem”. In: American journal of sociology 111.2, pp. 447–504.
-Wang, Dan (2015). “Activating Cross-border Brokerage: Interorganizational Knowl- edge Transfer through Skilled Return Migration.” In: Administrative Science Quarterly 60.1, pp. 133–176.
-Wuchty, Stefan, Benjamin F Jones, and Brian Uzzi (2007). “The increasing dom- inance of teams in production of knowledge”. In: Science 316.5827, pp. 1036– 1039.
-Zimmermann, Christian (2013). “Academic Rankings with RePEc”. In: Economet- rics 1.3, pp. 249–280.
+
+Mongeon, Philippe and Vincent Larivière (2015). “Costly collaborations: The impact of scientific fraud on co-authors’ careers”.  Journal of the Association for Information Science and Technology.
+
+Montecinos, Verónica and John Markoff (2010). Economists in the Americas. Edward Elgar Publishing.
+
+Nathan, Max (2015). “Same difference? Minority ethnic inventors, diversity and innovation in the UK”.  Journal of Economic Geography 15.1, pp. 129–168.
+
+Nisbett, Richard E (2003). The geography of thought. New York: Free Press.
+
+Orazbayev, Sultan (2016). “Exploring the world of Economics through RePEc data”. mimeo.
+
+Oster, Sharon M. and Daniel S. Hamermesh (1998). “Aging and productivity among economists”.  Review of Economics and Statistics 80.1, pp. 154–156.
+
+Rigby, John and Jakob Edler (2005). “Peering inside research networks: Some observations on the effect of the intensity of collaboration on the variability of research quality”.  Research Policy 34.6, pp. 784–794.
+
+Saxenian, AnnaLee (2005). “From brain drain to brain circulation: Transnational communities and regional upgrading in India and China”.  Studies in comparative international development 40.2, pp. 35–61.
+
+Seglen, Per O (1997). “Why the impact factor of journals should not be used for evaluating research.”  BMJ: British Medical Journal 314.7079, p. 498.
+
+Singh, Jasjit (2005). “Collaborative networks as determinants of knowledge diffusion patterns”.  Management science 51.5, pp. 756–770.
+
+Spolaore, Enrico and Romain Wacziarg (2015). Ancestry, Language and Culture. National Bureau of Economic Research.
+
+Tange, Ole (2011). “GNU Parallel-the command-line power tool”. The USENIX Magazine 36.1, pp. 42–47.
+
+Thelwall, Mike and Nabeil Maflahi (2015). “Are scholarly articles disproportionately read in their own country? An analysis of Mendeley readers”.  Journal of the Association for Information Science and Technology 66.6, pp. 1124–1135.
+
+Uzzi, Brian and Jarrett Spiro (2005). “Collaboration and creativity: the small world problem”.  American journal of sociology 111.2, pp. 447–504.
+
+Wang, Dan (2015). “Activating Cross-border Brokerage: Interorganizational Knowledge Transfer through Skilled Return Migration.”  Administrative Science Quarterly 60.1, pp. 133–176.
+
+Wuchty, Stefan, Benjamin F Jones, and Brian Uzzi (2007). “The increasing dominance of teams in production of knowledge”. Science 316.5827, pp. 1036–1039.
+
+Zimmermann, Christian (2013). “Academic Rankings with RePEc”. Econometrics 1.3, pp. 249–280.
+
+
